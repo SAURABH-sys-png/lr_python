@@ -4,3 +4,5 @@
 
 # class is a blueprint of an object
 # object is an instance of a class
+myName = "SAurabh"
+print(myName)
