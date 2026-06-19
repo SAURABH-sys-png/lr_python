@@ -6,3 +6,9 @@
 # object is an instance of a class
 myName = "SAurabh"
 print(myName)
+
+class dog:
+    def __init__(self,name,age):
+        self.make = name 
+        self.age = age
+        
